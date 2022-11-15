@@ -1,5 +1,6 @@
 if game.PlaceId == 1962086868 then loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/FantasyHub/main/Tower%20Of%20Hell"))() -- Tower of hell!
 elseif game.PlaceId == 155615604 then loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/FantasyHub/main/Prison%20Life"))() -- Prison Life
+elseif game.PlaceId == 9598746251 then loadstring(game:HttpGet("https://raw.githubusercontent.com/SchoolTrash/FantasyHub/main/Home%20Run%20Simulator"))() - Home run simulator
 end
 
 
